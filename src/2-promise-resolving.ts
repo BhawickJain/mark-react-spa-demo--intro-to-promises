@@ -13,3 +13,13 @@ function printWithCompetingDelays(firstMessage: string, secondMessage: string) {
 }
 
 printWithCompetingDelays("hello", "world");
+
+/*
+START of cuntion body
+MIDDLE of function body
+END of function body
+// 5 second delay //
+world
+// 1 second delay //
+hello
+*/

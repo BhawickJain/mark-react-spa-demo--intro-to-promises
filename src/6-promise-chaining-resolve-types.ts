@@ -24,6 +24,16 @@ function printWithTransformations(n: number) {
 }
 
 printWithTransformations(3);
+/*
+START of function body
+END of function body
+2 sec
+first resolved result: 3
+second resolved result: hello world! hello world! hello world!
+third resolved result: [hello world, hello world, hello world, '']
+false
+*/
+
 
 // function printWithTransformationsChained(n: number) {
 //   console.log("START of function body");
